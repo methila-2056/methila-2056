@@ -74,12 +74,12 @@
 ### 📌 More Projects
 
 <p align="center">
-  <a href="https://github.com/methila-2056/NaturaAI"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=methila-2056&amp;repo=NaturaAI&amp;theme=tokyonight&amp;hide_border=true"/></a>
-  <a href="https://github.com/methila-2056/SENTINEL-X"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=methila-2056&amp;repo=SENTINEL-X&amp;theme=tokyonight&amp;hide_border=true"/></a>
+  <a href="https://github.com/methila-2056/NaturaAI"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=methila-2056&amp;repo=NaturaAI&amp;v=1&amp;theme=tokyonight&amp;hide_border=true"/></a>
+  <a href="https://github.com/methila-2056/SENTINEL-X"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=methila-2056&amp;repo=SENTINEL-X&amp;v=1&amp;theme=tokyonight&amp;hide_border=true"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/methila-2056/Ai-requirement-change-impact-analyzer"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=methila-2056&amp;repo=Ai-requirement-change-impact-analyzer&amp;theme=tokyonight&amp;hide_border=true"/></a>
-  <a href="https://github.com/methila-2056/AI-Based-Smart-Attendance-System"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=methila-2056&amp;repo=AI-Based-Smart-Attendance-System&amp;theme=tokyonight&amp;hide_border=true"/></a>
+  <a href="https://github.com/methila-2056/Ai-requirement-change-impact-analyzer"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=methila-2056&amp;repo=Ai-requirement-change-impact-analyzer&amp;v=1&amp;theme=tokyonight&amp;hide_border=true"/></a>
+  <a href="https://github.com/methila-2056/AI-Based-Smart-Attendance-System"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=methila-2056&amp;repo=AI-Based-Smart-Attendance-System&amp;v=1&amp;theme=tokyonight&amp;hide_border=true"/></a>
 </p>
 
 ---
@@ -124,4 +124,5 @@ Troubleshot enterprise ETL workflows (Talend · SSIS), performed SQL data valida
 ---
 
 <h3 align="center">🤝 Open to software engineering opportunities — let's connect!</h3>
+
 
