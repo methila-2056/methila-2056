@@ -71,15 +71,15 @@
 | 📊 [**AI Requirement Change Impact Analyzer**](https://github.com/methila-2056/Ai-requirement-change-impact-analyzer) | Predicts impact of software requirement changes with **92.4% accuracy**; cut analysis time by **93.2%** | `Java` `React` `MongoDB` |
 | ☁️ [**Questions-Generator-API**](https://github.com/methila-2056/Questions-Generator-API) | Serverless interview-question generator producing STAR-style questions from job descriptions | `AWS Lambda` `Bedrock` `CDK` `TypeScript` |
 
-### 📌 More Projects
+##### 📌 More Projects
 
 <p align="center">
-  <a href="https://github.com/methila-2056/NaturaAI"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=methila-2056&amp;repo=NaturaAI&amp;v=1&amp;theme=tokyonight&amp;hide_border=true"/></a>
-  <a href="https://github.com/methila-2056/SENTINEL-X"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=methila-2056&amp;repo=SENTINEL-X&amp;v=1&amp;theme=tokyonight&amp;hide_border=true"/></a>
+  <a href="https://github.com/methila-2056/NaturaAI"><img alt="NaturaAI" src="https://img.shields.io/badge/NaturaAI-Herbal_Remedy_AI_Platform-2EA043?style=for-the-badge"/></a>
+  <a href="https://github.com/methila-2056/SENTINEL-X"><img alt="SENTINEL-X" src="https://img.shields.io/badge/SENTINEL--X-Security_Intelligence-DC382D?style=for-the-badge"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/methila-2056/Ai-requirement-change-impact-analyzer"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=methila-2056&amp;repo=Ai-requirement-change-impact-analyzer&amp;v=1&amp;theme=tokyonight&amp;hide_border=true"/></a>
-  <a href="https://github.com/methila-2056/AI-Based-Smart-Attendance-System"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=methila-2056&amp;repo=AI-Based-Smart-Attendance-System&amp;v=1&amp;theme=tokyonight&amp;hide_border=true"/></a>
+  <a href="https://github.com/methila-2056/Ai-requirement-change-impact-analyzer"><img alt="Impact Analyzer" src="https://img.shields.io/badge/Change_Impact_Analyzer-AI_92.4%25_Accuracy-0969DA?style=for-the-badge"/></a>
+  <a href="https://github.com/methila-2056/AI-Based-Smart-Attendance-System"><img alt="Smart Attendance" src="https://img.shields.io/badge/Smart_Attendance_System-AI_Powered-BD562D?style=for-the-badge"/></a>
 </p>
 
 ---
