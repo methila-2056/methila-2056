@@ -95,12 +95,12 @@ Troubleshot enterprise ETL workflows (Talend · SSIS), performed SQL data valida
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=methila-2056&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=methila-2056&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=methila-2056&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"/>
+  <img height="165" alt="Top languages" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=methila-2056&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=methila-2056&theme=tokyonight&hide_border=true&short_numbers=true"/>
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=methila-2056&amp;theme=tokyonight&amp;hide_border=true&amp;short_numbers=true"/>
 </p>
 
 <p align="center">
