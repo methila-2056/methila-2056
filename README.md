@@ -100,7 +100,7 @@ Troubleshot enterprise ETL workflows (Talend · SSIS), performed SQL data valida
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=methila-2056&amp;theme=tokyonight&amp;hide_border=true&amp;short_numbers=true"/>
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=methila-2056&amp;theme=tokyonight&amp;hide_border=true&amp;short_numbers=true&amp;v=2"/>
 </p>
 
 <p align="center">
