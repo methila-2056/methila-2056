@@ -71,6 +71,17 @@
 | 📊 [**AI Requirement Change Impact Analyzer**](https://github.com/methila-2056/Ai-requirement-change-impact-analyzer) | Predicts impact of software requirement changes with **92.4% accuracy**; cut analysis time by **93.2%** | `Java` `React` `MongoDB` |
 | ☁️ [**Questions-Generator-API**](https://github.com/methila-2056/Questions-Generator-API) | Serverless interview-question generator producing STAR-style questions from job descriptions | `AWS Lambda` `Bedrock` `CDK` `TypeScript` |
 
+### 📌 More Projects
+
+<p align="center">
+  <a href="https://github.com/methila-2056/NaturaAI"><img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=methila-2056&amp;repo=NaturaAI&amp;theme=tokyonight&amp;hide_border=true"/></a>
+  <a href="https://github.com/methila-2056/SENTINEL-X"><img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=methila-2056&amp;repo=SENTINEL-X&amp;theme=tokyonight&amp;hide_border=true"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/methila-2056/Ai-requirement-change-impact-analyzer"><img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=methila-2056&amp;repo=Ai-requirement-change-impact-analyzer&amp;theme=tokyonight&amp;hide_border=true"/></a>
+  <a href="https://github.com/methila-2056/AI-Based-Smart-Attendance-System"><img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=methila-2056&amp;repo=AI-Based-Smart-Attendance-System&amp;theme=tokyonight&amp;hide_border=true"/></a>
+</p>
+
 ---
 
 ## 💼 Experience
