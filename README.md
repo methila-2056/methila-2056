@@ -24,7 +24,7 @@
 - 🏢 Hands-on enterprise experience developing payroll systems, ETL workflows (Talend / SSIS), and data-integration pipelines.
 - 🧠 Strong foundation in **DSA, OOP, system design, databases**, and scalable application architecture.
 - ⚡ Interests: backend engineering, AI/ML integration, and developer tooling.
-- 📫 Reach me at **methilashiv@gmail.com** **www.linkedin.com/in/methila2005** 
+- 📫 Reach me at **methilashiv@gmail.com**   **www.linkedin.com/in/methila2005** 
 
 ---
 
