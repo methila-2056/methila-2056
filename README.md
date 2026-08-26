@@ -109,6 +109,14 @@ Troubleshot enterprise ETL workflows (Talend · SSIS), performed SQL data valida
 
 ## 🏆 Achievements & Certifications
 
+<p align="center">
+  <a href="https://github.com/methila-2056?tab=achievements">
+    <img alt="Quickdraw" src="https://img.shields.io/badge/⚡_Quickdraw-E44B2A?style=flat-square&logo=github&logoColor=white"/>
+    <img alt="YOLO" src="https://img.shields.io/badge/🤘_YOLO-5A5FE0?style=flat-square&logo=github&logoColor=white"/>
+    <img alt="Pull Shark" src="https://img.shields.io/badge/🦈_Pull_Shark-1F6FEB?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 🥇 **Best Team Award** — National-Level Hackathon (Mar 2025)
 👥 **Team Lead** — Smart India Hackathon 2025 (Oct–Nov 2025)
 
@@ -124,7 +132,7 @@ Troubleshot enterprise ETL workflows (Talend · SSIS), performed SQL data valida
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=methila-2056&amp;theme=tokyonight&amp;hide_border=true&amp;short_numbers=true&amp;v=2"/>
+  <img alt="GitHub streak" src="https://github-readme-streak-stats-eight.vercel.app?user=methila-2056&amp;theme=tokyonight&amp;hide_border=true&amp;short_numbers=true"/>
 </p>
 
 <p align="center">
