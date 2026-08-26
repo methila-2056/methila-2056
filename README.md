@@ -113,7 +113,6 @@ Troubleshot enterprise ETL workflows (Talend · SSIS), performed SQL data valida
   <a href="https://github.com/methila-2056?tab=achievements">
     <img alt="Quickdraw" src="https://img.shields.io/badge/⚡_Quickdraw-E44B2A?style=flat-square&logo=github&logoColor=white"/>
     <img alt="YOLO" src="https://img.shields.io/badge/🤘_YOLO-5A5FE0?style=flat-square&logo=github&logoColor=white"/>
-    <img alt="Pull Shark" src="https://img.shields.io/badge/🦈_Pull_Shark-1F6FEB?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
 
