@@ -65,9 +65,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🌿 [**NaturaAI**](https://github.com/methila-2056/NaturaAI) | Production-grade AI platform validating herbal remedies with evidence-based safety analysis — JWT/OAuth2 auth, distributed Spring Boot + FastAPI ML engine, Redis caching, RabbitMQ messaging, vector search | `Java 21` `Spring Boot` `FastAPI` `React` `Redis` `RabbitMQ` `Docker` |
-| 🛡️ [**SENTINEL-X**](https://github.com/methila-2056/SENTINEL-X) | AI-powered security incident detection, investigation, and evidence-grounded threat intelligence platform | `Python` `AI/ML` `Security` |
-| 🛒 [**ecommerce-backend**](https://github.com/methila-2056/ecommerce-backend) | Production-grade REST API with cart, orders, payments & admin dashboard — fully covered by 57 tests | `TypeScript` `Node.js` `Express` `JWT` |
+| 🌿 [**NaturaAI**](https://github.com/methila-2056/NaturaAI) · [🔴 live](https://naturaai-frontend.vercel.app) | Production-grade AI platform validating herbal remedies with evidence-based safety analysis — JWT/OAuth2 auth, distributed Spring Boot + FastAPI ML engine, Redis caching, RabbitMQ messaging, vector search | `Java 21` `Spring Boot` `FastAPI` `React` `Redis` `RabbitMQ` `Docker` |
+| 🛡️ [**SENTINEL-X**](https://github.com/methila-2056/SENTINEL-X) | AI-powered security incident detection, investigation, and evidence-grounded threat intelligence platform — hybrid RAG + knowledge graph, every claim backed by a runnable experiment | `Python` `AI/ML` `Security` |
+| 🛒 [**ecommerce-backend**](https://github.com/methila-2056/ecommerce-backend) · [🟢 live](https://ecommerce-backend-aot3.onrender.com) | Production-grade REST API with cart, orders, payments & admin dashboard — fully covered by integration tests on an in-memory MongoDB replica set | `TypeScript` `Node.js` `Express` `JWT` |
 | 📊 [**AI Requirement Change Impact Analyzer**](https://github.com/methila-2056/Ai-requirement-change-impact-analyzer) | Predicts impact of software requirement changes with **92.4% accuracy**; cut analysis time by **93.2%** | `Java` `React` `MongoDB` |
 | ☁️ [**Questions-Generator-API**](https://github.com/methila-2056/Questions-Generator-API) | Serverless interview-question generator producing STAR-style questions from job descriptions | `AWS Lambda` `Bedrock` `CDK` `TypeScript` |
 
