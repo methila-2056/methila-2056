@@ -57,7 +57,20 @@
 </p>
 
 ### Engineering Practices
-`REST API Design` · `JWT/OAuth2 Auth` · `Microservices` · `ETL (Talend / SSIS)` · `System Design` · `JUnit / Mockito / Pytest` · `Postman` · `Git & GitHub` · `Jira` · `Agile`
+<p>
+  <img alt="REST API Design" src="https://img.shields.io/badge/REST_API_Design-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white"/>
+  <img alt="JWT/OAuth2 Auth" src="https://img.shields.io/badge/JWT%2FOAuth2_Auth-D63AFF?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img alt="Microservices" src="https://img.shields.io/badge/Microservices-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img alt="ETL (Talend / SSIS)" src="https://img.shields.io/badge/ETL_%28Talend_%2F_SSIS%29-FF8C00?style=flat-square"/>
+  <img alt="System Design" src="https://img.shields.io/badge/System_Design-7E57C2?style=flat-square"/>
+  <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white"/>
+  <img alt="Mockito" src="https://img.shields.io/badge/Mockito-B02E8C?style=flat-square"/>
+  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img alt="Git & GitHub" src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+  <img alt="Agile" src="https://img.shields.io/badge/Agile-00897B?style=flat-square"/>
+</p>
 
 ---
 
@@ -106,8 +119,8 @@ Troubleshot enterprise ETL workflows (Talend · SSIS), performed SQL data valida
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=methila-2056&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"/>
-  <img height="165" alt="Top languages" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=methila-2056&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"/>
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=methila-2056&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=86400"/>
+  <img height="165" alt="Top languages" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=methila-2056&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=86400"/>
 </p>
 
 <p align="center">
