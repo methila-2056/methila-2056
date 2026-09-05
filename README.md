@@ -131,10 +131,6 @@ Troubleshot enterprise ETL workflows (Talend · SSIS), performed SQL data valida
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://github-readme-streak-stats-eight.vercel.app?user=methila-2056&amp;theme=tokyonight&amp;hide_border=true&amp;short_numbers=true"/>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/methila-2056/methila-2056/output/github-contribution-grid-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/methila-2056/methila-2056/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
